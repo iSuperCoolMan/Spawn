@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {
-    [SerializeField] private GameObject _spawnObject;
+    [SerializeField] private Mob _spawnObject;
     [SerializeField] private float _spawnDelayInSeconds;
 
     private List<Transform> _spawnPoints;
