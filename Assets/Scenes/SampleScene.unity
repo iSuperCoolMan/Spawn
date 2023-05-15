@@ -267,7 +267,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bd415fb6075e6746afd1f105383223a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _spawnObject: {fileID: 4970876514812774528, guid: 8fe89adfec9355e4a93235aab6c5632e, type: 3}
+  _spawnObject: {fileID: 6103055228033162311, guid: 8fe89adfec9355e4a93235aab6c5632e, type: 3}
   _spawnDelayInSeconds: 2
 --- !u!4 &894370848
 Transform:
